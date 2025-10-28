@@ -49,9 +49,8 @@ An interactive platform that uses AI to help users learn and retain new vocabula
 
 ## 📫 Let’s Connect
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/jennifer-cosmas](https://linkedin.com/in/jennifer-cosmas)  
-- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+- **Email:** [your.email@example.com](mailto:jennessecosmas7@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/jennifer-cosmas](https://linkedin.com/in/jennifer-cosmas)   
 
 ---
 
